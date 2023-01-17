@@ -9,6 +9,3 @@
 ## My LinkedIn
 https://www.linkedin.com/in/kendall-carter-59089b185/  
 
-## Personal Project: Band Website 
-https://kendallcarter.github.io/loose.github.io/
-
